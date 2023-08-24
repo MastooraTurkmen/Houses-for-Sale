@@ -12,7 +12,7 @@ This is a simple House Project. In this project I used following methodes:
 - Default parameters
 
 
-## Cloning the project
+## Cloning the project 🪛🔨
 
 ```
 # Clone this repository
