@@ -16,5 +16,7 @@ This is a simple House Project. In this project I used following methodes:
 
 ```
 # Clone this repository
+$ git clone https://github.com/MastooraTurkmen/Houses-for-Sale.git
+
 
 ```
