@@ -11,11 +11,3 @@ This is a simple House Project. In this project I used following methodes:
 - .reduce()
 - Default parameters
 
-![Alt text](<Houses for Sale.png>)
-
-
-
-I hope you enjoyed, THANK YOU :)
-
-
-Happy Coding!
