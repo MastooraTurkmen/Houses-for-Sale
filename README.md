@@ -25,3 +25,5 @@ $ cd Houses-for-Sale
 ------
 
 ## Languages and Tools are used
+
+1. **Languages**
