@@ -21,3 +21,6 @@ $ git clone https://github.com/MastooraTurkmen/Houses-for-Sale.git
 # Go inside the repository
 $ cd Houses-for-Sale
 ```
+
+------
+
