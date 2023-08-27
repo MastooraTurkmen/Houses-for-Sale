@@ -3,5 +3,5 @@ export const placeholderPropertyObj = {
     priceGBP: 100000,
     roomsM2: [16, 12, 6, 11, 5],
     comment: 'This is the description',
-    image: 'placeholder.jpg'
+    image: 'https://i.postimg.cc/W4jJKmFh/placeholder.jpg'
 }
