@@ -7,7 +7,7 @@ function getPropertyHtml(properties = [placeholderPropertyObj]) {
      const totalRome = sale.roomsM2.reduce((total, current) => total + current)
      return sale = `
             <section class="card">
-            <img src="/images/${sale.image}">
+            <img src="${sale.image}">
             <div class="card-right">
                 <h2>${sale.propertyLocation}</h2>
                 <h3>${sale.priceGBP}</h3>
