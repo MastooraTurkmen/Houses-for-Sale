@@ -35,3 +35,5 @@ $ cd Houses-for-Sale
     + [JavaScript](https://github.com/topics/javascript)
 
 2. **Tools**
+
+    + [Chrome](https://github.com/topics/chrome)
