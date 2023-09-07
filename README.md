@@ -91,6 +91,9 @@ $ cd Houses-for-Sale
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
 </head>
-
+<body>
+    <section class="container" id="container"></section>
+    <script src="index.js" type="module"></script>
+</body>
 </html>
 ```
