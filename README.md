@@ -80,5 +80,8 @@ $ cd Houses-for-Sale
 ## ***Index HTML***
 
 ```html
+<!doctype html>
+<html>
 
+</html>
 ```
