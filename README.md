@@ -101,5 +101,11 @@ $ cd Houses-for-Sale
 ## ***Index CSS***
 
 ```css
+body {
+    margin: 0;
+    color: #333;
+    font-family: 'Poppins';
+}
+
 
 ```
