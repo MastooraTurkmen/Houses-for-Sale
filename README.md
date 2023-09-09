@@ -113,4 +113,14 @@ body {
     justify-content: center;
     padding: 20px;
 }
+
+.card {
+    display: flex;
+    min-width: 400px;
+    max-width: 450px;
+    box-shadow: 0px 0px 10px 1px #999;
+    margin: 0 20px 15px 20px;
+    border-radius: 5px;
+    max-height: 120px;
+}
 ```
