@@ -107,5 +107,10 @@ body {
     font-family: 'Poppins';
 }
 
-
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+}
 ```
