@@ -129,4 +129,12 @@ body {
    border-bottom-left-radius: 5px;
    height: 100%;
 }
+
+.card-right {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-left: 16px;
+    padding: 11px;
+}
 ```
