@@ -123,4 +123,10 @@ body {
     border-radius: 5px;
     max-height: 120px;
 }
+
+.card img {
+   border-top-left-radius: 5px;
+   border-bottom-left-radius: 5px;
+   height: 100%;
+}
 ```
