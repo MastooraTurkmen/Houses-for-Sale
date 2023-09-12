@@ -148,4 +148,8 @@ h3{
     margin: 0 0 3px 0;
 }
 
+p {
+    font-size: 13px;
+    margin: 5px 0 5px 0;
+}
 ```
