@@ -143,5 +143,9 @@ h2{
     margin: 0 0 3px 0;
 }
 
+h3{  
+    font-size: 12px;
+    margin: 0 0 3px 0;
+}
 
 ```
