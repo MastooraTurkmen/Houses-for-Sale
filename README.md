@@ -161,4 +161,18 @@ p {
 
 import {propertyForSaleArr} from "./properties/propertyForSaleArr.js"
 import {placeholderPropertyObj} from "./properties/placeholderPropertyObj.js"
+
+function getPropertyHtml(properties = [placeholderPropertyObj]) {
+   return properties.map(sale => {
+     const totalRome = sale.roomsM2.reduce((total, current) => total + current)
+     return sale = `
+            <section class="card">
+            <img src="${sale.image}">
+            <div class="card-right">
+
+            </div>
+        </section> `
+    }).join('')
+}
+
 ```
