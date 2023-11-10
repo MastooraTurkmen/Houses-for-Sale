@@ -11,11 +11,16 @@ This is a simple House Project. In this project I used following methodes:
 - .reduce()
 - Default parameters
 
+
 ## Screenshots 📸
 
 ![Alt text](image.png)
 ![Alt text](image-1.png)
 ![Alt text](image-2.png)
+
+
+------
+
 
 ## Cloning the project 🪛🔨
 
