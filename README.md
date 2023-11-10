@@ -172,6 +172,7 @@ function getPropertyHtml(properties = [placeholderPropertyObj]) {
                 <h2>${sale.propertyLocation}</h2>
                 <h3>${sale.priceGBP}</h3>
                 <p>${sale.comment}</p>
+                <h3>${totalRome} m&sup2</h3>
             </div>
         </section> `
     }).join('')
