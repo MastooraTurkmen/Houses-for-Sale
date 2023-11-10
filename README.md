@@ -13,7 +13,7 @@ This is a simple House Project. In this project I used following methodes:
 
 ## Screenshots
 
-
+![Alt text](image.png)
 
 
 ## Cloning the project 🪛🔨
