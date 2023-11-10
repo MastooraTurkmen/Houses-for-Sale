@@ -160,4 +160,5 @@ p {
 ```js
 
 import {propertyForSaleArr} from "./properties/propertyForSaleArr.js"
+import {placeholderPropertyObj} from "./properties/placeholderPropertyObj.js"
 ```
