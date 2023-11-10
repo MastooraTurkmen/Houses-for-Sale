@@ -11,7 +11,7 @@ This is a simple House Project. In this project I used following methodes:
 - .reduce()
 - Default parameters
 
-## Screenshots
+## Screenshots 📸
 
 ![Alt text](image.png)
 ![Alt text](image-1.png)
