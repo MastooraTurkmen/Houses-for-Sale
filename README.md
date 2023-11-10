@@ -169,7 +169,8 @@ function getPropertyHtml(properties = [placeholderPropertyObj]) {
             <section class="card">
             <img src="${sale.image}">
             <div class="card-right">
-
+                <h2>${sale.propertyLocation}</h2>
+              
             </div>
         </section> `
     }).join('')
