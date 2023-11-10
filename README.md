@@ -159,4 +159,5 @@ p {
 
 ```js
 
+import {propertyForSaleArr} from "./properties/propertyForSaleArr.js"
 ```
