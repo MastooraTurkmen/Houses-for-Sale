@@ -178,4 +178,5 @@ function getPropertyHtml(properties = [placeholderPropertyObj]) {
     }).join('')
 }
 
+document.getElementById('container').innerHTML = getPropertyHtml(propertyForSaleArr)
 ```
