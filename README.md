@@ -14,7 +14,7 @@ This is a simple House Project. In this project I used following methodes:
 
 ## Screenshots 📸
 
-![Alt text](screenshot.png)
+![screenshot](screenshot.png)
 ![Alt text](screenshot-1.png)
 ![Alt text](screenshot-2.png)
 
