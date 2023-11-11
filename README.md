@@ -16,7 +16,7 @@ This is a simple House Project. In this project I used following methodes:
 
 ![Alt text](screenshot.png)
 ![Alt text](screenshot-1.png)
-![Alt text](image-2.png)
+![Alt text](screenshot-2.png)
 
 
 ------
