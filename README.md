@@ -62,7 +62,7 @@ $ cd Houses-for-Sale
 4. From there select **_Deploy with Github_**.
    ![Netlify screenshot](netlify.png)
 5. Then write your project name and select it.
-   ![Netlify screenshot](image-1.png)
+   ![Netlify screenshot](netlify-1.png)
 6. After selecting here you can see that the project **_Review configuration for Houses-for-Sale_** and then select the **_Deploy Houses-for-Sale_** Button.
    ![Netlify screenshot](image-2.png)
    ![Netlify screenshot](image-3.png)
