@@ -67,7 +67,7 @@ $ cd Houses-for-Sale
    ![Netlify screenshot](./nelify-screenshots/netlify-2.png)
    ![Netlify screenshot](./nelify-screenshots/netlify-3.png)
 7. Now your project is Live.
-   ![Netlify screenshot](image.png)
+   ![Netlify screenshot](netlify.png)
 
 
 -------
