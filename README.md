@@ -65,7 +65,7 @@ $ cd Houses-for-Sale
    ![Netlify screenshot](./nelify-screenshots/netlify-1.png)
 6. After selecting here you can see that the project **_Review configuration for Houses-for-Sale_** and then select the **_Deploy Houses-for-Sale_** Button.
    ![Netlify screenshot](./nelify-screenshots/netlify-2.png)
-   ![Netlify screenshot](netlify-3.png)
+   ![Netlify screenshot](./nelify-screenshots/netlify-3.png)
 7. Now your project is Live.
 
 
