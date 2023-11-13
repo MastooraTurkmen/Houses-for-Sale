@@ -1,6 +1,8 @@
 # Houses for Sale Poject 🏠🏘
 
-***Live Site: ***  https://houses-for-sale.netlify.app/
+
+***Live Site:***  https://houses-for-sale.netlify.app/
+
 This is a simple House Project. In this project I used following methodes:
 
 - import/export
