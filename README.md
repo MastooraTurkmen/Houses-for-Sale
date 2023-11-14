@@ -13,6 +13,11 @@ This is a simple House Project. In this project I used following methodes:
 - Default parameters
 
 
+***Houses Description***
+
+
+
+
 ## Screenshots 📸
 
 ![screenshot](./screenshot/screenshot.png)
