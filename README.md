@@ -16,6 +16,7 @@ This is a simple House Project. In this project I used following methodes:
 ***Houses Description***
 
 1. **Kensington, London**
+  + 890000
 
 
 
