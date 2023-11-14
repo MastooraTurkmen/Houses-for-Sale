@@ -18,12 +18,12 @@ This is a simple House Project. In this project I used following methodes:
 1. **Kensington, London**
   + 890000
   + Highly desirable location in stunning scenery!
-  + 62 m²
+  + 62m²
 
 2. **Wirral, Liverpool**
   + 650000
   + Astonishing view with a modern finish!
-  + 116 m²
+  + 116m²
 
 3. **Beach, Brighton**
   + 420000
