@@ -28,7 +28,7 @@ This is a simple House Project. In this project I used following methodes:
 3. **Beach, Brighton**
   + 420000
   + Beautiful interior and a spacious room.
-  + 5 m²
+  + 5m²
 
 -------
 
