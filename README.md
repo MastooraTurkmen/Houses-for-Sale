@@ -18,7 +18,7 @@ This is a simple House Project. In this project I used following methodes:
 1. **Kensington, London**
   + 890000
   + Highly desirable location in stunning scenery!
-
+  + 62 m²
 
 
 
