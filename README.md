@@ -24,7 +24,8 @@ This is a simple House Project. In this project I used following methodes:
   + 650000
   + Astonishing view with a modern finish!
   + 116 m²
-  
+
+3. **Beach, Brighton**
 
 -------
 
