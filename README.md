@@ -21,6 +21,7 @@ This is a simple House Project. In this project I used following methodes:
   + 62 m²
 
 2. **Wirral, Liverpool**
+  + 650000
 
 
 
