@@ -32,6 +32,8 @@ This is a simple House Project. In this project I used following methodes:
 
 4. **Highlands, Scotland**
   + 550000
+  + Lots of potential, snug, a must see!
+
 
 
 
