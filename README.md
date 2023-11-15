@@ -224,3 +224,5 @@ document.getElementById('container').innerHTML = getPropertyHtml(propertyForSale
 
 
 ------
+
+## Updating the images to the direct links 
