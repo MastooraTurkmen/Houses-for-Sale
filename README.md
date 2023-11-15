@@ -31,6 +31,10 @@ This is a simple House Project. In this project I used following methodes:
   + 5m²
 
 4. **Highlands, Scotland**
+  + 550000
+
+
+
 -------
 
 
